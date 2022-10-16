@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 
 public class ReadingFileTest {
-  private final String filePath = "src/test/resources/sample-file-large.txt";
+  private final String filePath = "src/test/resources/sample-file.txt";
 
   @Test
   public void shouldReadFile_method1() throws FileNotFoundException {
